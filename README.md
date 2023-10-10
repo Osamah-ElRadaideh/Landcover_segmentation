@@ -1,5 +1,8 @@
 # Landcover_segmentation
-Semantic segmentation of the Landcover.ai dataset, Code will be added shortly. 
+Semantic segmentation of the [landcover.ai dataset](https://landcover.ai.linuxpolska.com)
+
+Due to the large size of the dataset, JSONs are not uploaded. 
+
 
 segmented examples of 3 256x256 patches.
 
